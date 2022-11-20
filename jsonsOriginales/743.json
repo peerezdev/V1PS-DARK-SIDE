@@ -1,0 +1,33 @@
+{
+    "name": "V1PS #743",
+    "symbol": "VIPS",
+    "description": "999 High-quality AI V1P$ making Web 3 the best place",
+    "seller_fee_basis_points": 800,
+    "image": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/132.png",
+    "external_url": "",
+    "collection": {
+        "name": "V1P$",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "green"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://nftstorage.link/ipfs/bafybeiccosmd4yhmzu3eptlobufmjom7y45fb655kc77pa7rq24cu7fddm/132.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "HYf8E8WeU5j2hKyu6PzuHWqJRFvHfKYEDeaQxK9rXjkp",
+                "share": 100
+            }
+        ]
+    }
+}
