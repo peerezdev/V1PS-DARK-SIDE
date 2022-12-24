@@ -12,11 +12,7 @@
     "attributes": [
         {
             "trait_type": "character",
-            "value": "mummy"
-        },
-        {
-            "trait_type": "character",
-            "value": "dark side"
+            "value": "dark side mummy"
         }
     ],
     "properties": {
