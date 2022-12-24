@@ -1,0 +1,37 @@
+{
+    "name": "V1PS #277",
+    "symbol": "VIPS",
+    "description": "999 High-quality AI V1P$ making Web 3 the best place",
+    "seller_fee_basis_points": 800,
+    "image": "https://raw.githubusercontent.com/peerezdev/V1PS-DARK-SIDE/main/darkside/277.png",
+    "external_url": "",
+    "collection": {
+        "name": "V1P$",
+        "family": "LaunchMyNFT"
+    },
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "tiger"
+        },
+        {
+            "trait_type": "character",
+            "value": "dark side"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/peerezdev/V1PS-DARK-SIDE/main/darkside/277.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "HYf8E8WeU5j2hKyu6PzuHWqJRFvHfKYEDeaQxK9rXjkp",
+                "share": 100
+            }
+        ]
+    }
+}
